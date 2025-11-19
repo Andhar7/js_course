@@ -1,7 +1,7 @@
 'use strict';
 
 // ========== CONSTANTS ==========
-const MAX_NUMBER = 20;
+const MAX_NUMBER = 21;
 const MIN_NUMBER = 1;
 const INITIAL_SCORE = 21;
 
